@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-board-game/static/css/main.5160afff.css",
+    "main.js": "/react-board-game/static/js/main.9ee70051.js",
+    "static/js/787.75d7db2f.chunk.js": "/react-board-game/static/js/787.75d7db2f.chunk.js",
+    "index.html": "/react-board-game/index.html",
+    "main.5160afff.css.map": "/react-board-game/static/css/main.5160afff.css.map",
+    "main.9ee70051.js.map": "/react-board-game/static/js/main.9ee70051.js.map",
+    "787.75d7db2f.chunk.js.map": "/react-board-game/static/js/787.75d7db2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5160afff.css",
+    "static/js/main.9ee70051.js"
+  ]
+}
